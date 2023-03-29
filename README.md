@@ -1,7 +1,7 @@
 # CS_GO Trad calculator
  CS_GO Trad calculator
 
-Programme made in python to calculate if trad is profitable or not depending on the collection studied.
+Programme made in python to calculate if a trad is profitable or not depending on the collection studied.
 The programme scrap the web site cs go stach in order to get the prize of all item in real time.
 
 #Usage 
